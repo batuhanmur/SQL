@@ -1,0 +1,5 @@
+--SELECT title, description from film;
+--SELECT*FROM film WHERE length > 60 AND length<75;
+--Select*from film WHERE rental_rate = '0.99' and (replacement_cost='12.99' or replacement_cost='28.99');
+--select first_name, last_name from customer where first_name='Mary';
+--select length, rental_rate from film Where not length>50 and NOT(rental_rate='2.99' or rental_rate='4.99');
